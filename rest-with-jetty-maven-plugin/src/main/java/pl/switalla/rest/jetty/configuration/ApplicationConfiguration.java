@@ -1,4 +1,4 @@
-package pl.switalla.jdbi.configuration;
+package pl.switalla.rest.jetty.configuration;
 
 import javax.ws.rs.ApplicationPath;
 import javax.ws.rs.core.Application;

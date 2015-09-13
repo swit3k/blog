@@ -1,4 +1,4 @@
-package pl.switalla.jdbi.resources;
+package pl.switalla.rest.jetty.resources;
 
 import javax.ws.rs.GET;
 import javax.ws.rs.Path;
