@@ -1,2 +1,2 @@
 # Blog files
-Repository for all blog posts apearing on switalla.pl
+Repository for all blog posts appearing on [switalla.pl](http://switalla.pl)
